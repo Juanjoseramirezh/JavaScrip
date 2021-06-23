@@ -23,6 +23,6 @@ class Ninja {
 }
 
 let ninja1 = new Ninja("ORO")
-ninja1.sayName
-ninja1.showStats
-ninja1.drinkSake
+ninja1.sayName()
+ninja1.showStats()
+ninja1.drinkSake()
